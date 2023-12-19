@@ -22,7 +22,7 @@
     "lodash": "^4.17.21",
     "morgan": "^1.10.0",
     "mysql": "^2.18.1",
-    "passport": "^0.6.0",
+    "passport": "^0.7.0",
     "passport-discord": "^0.1.4"
   }
 }
