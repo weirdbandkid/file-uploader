@@ -1,5 +1,5 @@
 # file-uploader
-This project is not set up for a production environment. There are places that can has SQL injections. They will be taken care of eventually.
+This project is currently a side project and is not production ready. There are several bugs and vulnerabilities that will be fixed in the future.
 
 
-This is (almost) the same code used in [FreeCDN](https://github.com/standard-software-systems/freecdn). 
+<!-- This is (almost) the same code used in [FreeCDN](https://github.com/standard-software-systems/freecdn).  -->
